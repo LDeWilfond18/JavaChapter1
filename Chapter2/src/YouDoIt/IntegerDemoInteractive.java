@@ -14,7 +14,7 @@ public class IntegerDemoInteractive {
 		
 		Scanner input = new Scanner(System.in);
 		
-		System.out.print("Please enter an interger >> ");
+		System.out.print("Please enter an integer >> ");
 		anInt = input.nextInt();
 		
 		System.out.print("The in is an integer >> ");
